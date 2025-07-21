@@ -4,7 +4,7 @@ import {
   Route,
   Navigate,
 } from "react-router-dom";
-import Expense from "./pages/dashboard/expense";
+import Expense from "./pages/dashboard/Expense.jsx";
 import Income from "./pages/dashboard/Income.jsx";
 import Signup from "./pages/auth/Signup";
 import Login from "./pages/auth/Login";

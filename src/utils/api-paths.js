@@ -1,5 +1,6 @@
 //utils/apiPaths.js
-export const BASE_URL = "http://localhost:6969";
+export const BASE_URL = "https://expense-tracker-backend-d4vc.onrender.com";
+
 export const API_PATHS = {
   AUTH: {
     LOGIN: `/api/v1/auth/login`,
